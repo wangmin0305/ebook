@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "epubjs": "^0.3.84",
+    "epubjs": "^0.3.89",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
